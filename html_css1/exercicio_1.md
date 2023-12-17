@@ -21,7 +21,7 @@
 
 ### A tag <strong>a</strong> está associada à área 8.
  
-### #A tag <strong>footer</strong> está associada à área 9.
+### A tag <strong>footer</strong> está associada à área 9.
  
 ### A tag <strong>ul</strong> está associada à área 10.
 
