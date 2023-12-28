@@ -31,9 +31,9 @@
 
 ### A tag <strong>form</strong> está associada à área 12.
 
-### A tag <strong>input</strong> está associada à área 13.
+### A tag <strong>label</strong> está associada à área 13.
  
-### A tag <strong>label</strong> está associada à área 14.
+### A tag <strong>input</strong> está associada à área 14.
  
 ### A tag <strong>select</strong> está associada à área 15.
 
