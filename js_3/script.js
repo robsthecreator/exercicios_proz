@@ -1,10 +1,10 @@
 const titulo = document.getElementById("titulo");
 const listaNaoOrdenada = document.querySelector("ul");
 const link = document.querySelector("a");
-const listaOrdenada = document.getElementById("lista-ordenada");
+const listaOrdenada = document.getElementByClassName("lista-ordenada");
 
 titulo.innerText = "Meu Primeiro Projeto";
-link.innerText = "ProZed Educação";
+link.innerText = "ProZ Educação";
 listaNaoOrdenada.innerHTML = `
     <li>item1</li>
     <li>item2</li>
